@@ -1,5 +1,11 @@
-# SEGMENTACAO_OVOS_DE_MOSQUITO-processamento-de-imagens
-Projeto de processamento de imagens em Matlab que faz a contagem de ovos de mosquito Aedes Aegypti em dispositivos Ovitrampa
+# SEGMENTACAO_OVOS_DE_MOSQUITO :microscope:
+
+Welcome to the **SEGMENTACAO_OVOS_DE_MOSQUITO** project! This repository is dedicated to the image processing project in Matlab that focuses on counting Aedes Aegypti mosquito eggs in Ovitrampa devices.
+
+## SEGMENTACAO_OVOS_DE_MOSQUITO-processamento-de-imagens
+
+Projeto de processamento de imagens em Matlab que faz a contagem de ovos de mosquito Aedes Aegypti em dispositivos Ovitrampa.
+
 
 ```
  ARQ    NOC  NOM1  NOM2  IMG          EES
@@ -13,7 +19,7 @@ TF_4    110  107   109   ovitrampa13  EEs2
 ## LEGENDA
 ```
 ARQ  - arquivo código
-NOC  - número de ovos contados 
+NOC  - número de ovos contados manualmente
 NOM1 - número contado por método 1 
 NOM2 - número contado por método 2 
 IMG  - nome da imagem utilizada
